@@ -75,3 +75,6 @@ Data cleaning e trasformazione
 online_retail_clean
      ↓
 Analisi SQL
+
+
+Gli insight principali emersi dall'analisi sono indicati negli appunti sopra le query
