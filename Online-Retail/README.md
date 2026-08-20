@@ -1,4 +1,3 @@
-# Analisi SQL – Online Retail
 
 Descrizione del progetto
 
